@@ -134,6 +134,8 @@ height: 100vh;
   .box2 h1{
     color: white;
     right: 40vw;
+    text-align: center;
+
   }
   .box3 h1{
     text-align: center;
